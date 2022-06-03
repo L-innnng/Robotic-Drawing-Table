@@ -12,4 +12,12 @@
 
 -Download the [UGS software form UGS website](https://winder.github.io/ugs_website/).
 
+1. Open UGS platform, navigate to Machine > Setup wizard, choose the port COM5 and click the Connect button.
+
+2. navigate to File > Open, and open the G-code file crab.ngc.
+
+3. Navigate to Machine > Setup wizard, and modify the step size and other properties of the motors.
+
+4. Run the G-code.
+
 
