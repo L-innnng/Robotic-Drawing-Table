@@ -1,5 +1,4 @@
 # Robotic-Drawing-Table
-robotics-final project-code
 
 -Download the [Arduino IDE from Arduino website](https://www.arduino.cc/en/software).
 
@@ -12,4 +11,5 @@ robotics-final project-code
 3. Navigate to File > Examples > grbl > grblUpload. The we select the Arduino board, the COM port.
 
 -Download the [UGS software form UGS website](https://winder.github.io/ugs_website/).
-   · 
+
+
