@@ -10,7 +10,7 @@
 
 3. Navigate to File > Examples > grbl > grblUpload. Then select the Arduino board and the COM port.
 
--Download the [UGS software form UGS website](https://winder.github.io/ugs_website/).
+-Download the version 2.0.9. [UGS software form UGS website](https://winder.github.io/ugs_website/). 
 
 1. Open UGS platform, navigate to Machine > Setup wizard, choose the port COM5 and click the Connect button.
 
