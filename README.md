@@ -1,12 +1,12 @@
 # Robotic-Drawing-Table
 
 
--The design of the project is shown in the figure below.
+The design of the project is shown as the figure below.
 
 ![image](https://user-images.githubusercontent.com/100121000/171878473-ff3fcf1b-7818-486a-9261-2d685672f270.png)
 
 
-set up:
+Set up:
 
 -Download the [Arduino IDE from Arduino website](https://www.arduino.cc/en/software).
 
