@@ -20,4 +20,8 @@
 
 4. Run the G-code.
 
+The design of the project is shown in the figure below.
+
+![image](https://user-images.githubusercontent.com/100121000/171878473-ff3fcf1b-7818-486a-9261-2d685672f270.png)
+
 
