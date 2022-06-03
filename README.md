@@ -8,7 +8,7 @@
 
 2. Navigate to the extracted folder “grbl-master”, in there select the “grbl” folder and click the open file. Now we have GRBL as an Arduino Library.
 
-3. Navigate to File > Examples > grbl > grblUpload. The we select the Arduino board, the COM port.
+3. Navigate to File > Examples > grbl > grblUpload. Then select the Arduino board and the COM port.
 
 -Download the [UGS software form UGS website](https://winder.github.io/ugs_website/).
 
